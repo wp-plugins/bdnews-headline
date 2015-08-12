@@ -36,7 +36,8 @@ You can't Edit/input/delete source URL, it's auto attributed source.
 
 == Screenshots ==
 
-1. BDNEWS Headlines Example
+1. BDNEWS Headlines Widgets
+2. BDNEWS Headlines Example
 
 == License ==
 
