@@ -150,7 +150,7 @@ class bdnews_bangla extends WP_Widget {
 
 		<input class="widefat" id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" type="text" value="<?php echo esc_attr( $title ); ?>" />
 		</p>
-		<label for="Source">Source: You Can't Edit/Delete </label> 
+		<label for="Source">Source:Auto Inserted, You Can't Edit/Delete</label> 
 	<input class="widefat" id="<?php echo $this->get_field_id( 'rss_url' ); ?>" name="<?php echo $this->get_field_name( 'rss_url' ); ?>" type="text" value="http://bangla.bdnews24.com/?widgetName=rssfeed&widgetId=1151&getXmlFeed=true" /></p>
             
         <p><label for="<?php echo $this->get_field_id( 'number' ); ?>"><?php _e( 'Number of News:' ); ?></label>

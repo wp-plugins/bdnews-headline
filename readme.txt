@@ -15,7 +15,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description == 
 = How to Use =
-after installation then go to Widgets, drag and drop bdnews24 headline widget to your any widgets, and press save.
+after installation then go to Widgets, drag and drop bdnews24 headline widget to your sidebar, and press save.
 
 = News Source = 
 You can't Edit/input/delete source URL, it's auto attributed source.
